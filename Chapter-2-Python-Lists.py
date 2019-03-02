@@ -1,4 +1,5 @@
 #Intro-to-Python-for-Data-Science-Data-Camp/Chapter 2 Python Lists.py
+# https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-2-python-lists?ex=1
 ###Create A List
 #a = "is"
 #b = "nice"
